@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sandra.brun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sandra.brun\\.nuget\\packages"
+    ]
+  }
+}
