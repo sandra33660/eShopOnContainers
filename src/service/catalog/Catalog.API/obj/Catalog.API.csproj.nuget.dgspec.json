@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandra.brun\\Documents\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\Users\\sandra.brun\\Documents\\GitHub\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandra.brun\\Documents\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\Users\\sandra.brun\\Documents\\GitHub\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandra.brun\\Documents\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\sandra.brun\\Documents\\GitHub\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Users\\sandra.brun\\Documents\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectPath": "C:\\Users\\sandra.brun\\Documents\\GitHub\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\sandra.brun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandra.brun\\Documents\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\obj\\",
+        "outputPath": "C:\\Users\\sandra.brun\\Documents\\GitHub\\eShopOnContainers\\src\\service\\catalog\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandra.brun\\AppData\\Roaming\\NuGet\\NuGet.Config",
